@@ -1,4 +1,3 @@
-# oceanallatok
 <!DOCTYPE html>
 <html lang="hu">
 <head>
@@ -49,15 +48,30 @@
 </div>
 
 <div class="animal">
-    <img src="tekno.jpg" alt="Teknős" width="300">
+    <img src="teknos.jpeg" alt="Teknős" width="300">
     <h2>Teknősök</h2>
     <p>A teknősök régi és csodálatos állatok, akik hosszú távú vándorlásaikról ismertek.</p>
 </div>
 
+
+
+<div class="animal">
+    <img src="delfin.jpg" alt="Cet" width="300">
+    <h2>Delfinek</h2>
+    <p>A delfin a fogascetek közé tartozó egyes vízi emlősállatok összefoglaló neve. A delfinek halakkal táplálkoznak. Különleges képességük, hogy a visszhang alapján tájékozódnak. </p>
+</div>
+
+<div class="animal">
+    <img src=".jpg" alt="Cet" width="300">
+    <h2>Tengeri csillag</h2>
+    <p>A tengericsillagok (Asteroidea) a tüskésbőrűek (Echinodermata) törzsének egyik osztálya mintegy 1500 fajjal. A kígyókarúakkal (Ophiuroidea) ellentétben karjaik (a testükhöz kapcsolódó nyúlványok) nem különülnek el törzsüktől. </p>
+</div>
+
+
 <!-- Ide jöhetnek további állatok a hasonló felépítésben -->
 
 <footer>
-    <p>Készítette: Te</p>
+    <p>Készítette: Kocsis Olivér</p>
 </footer>
 
 </body>
